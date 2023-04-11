@@ -1,7 +1,9 @@
 # T9 Translator 🤖
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/matejmajny/t9-translator?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/matejmajny/t9-translator?color=orange&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/matejmajny/t9-translator?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/matejmajny/t9-translator?style=for-the-badge)    
 Python app to translate T9 text.
-
-
 # Abilities 🔍
 - Latin to T9 translation
 - T9 to Latin translation
